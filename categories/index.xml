@@ -6,10 +6,19 @@
     <description>Recent content in Categories on YEN氏少女</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Jun 2020 20:54:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 14:34:10 +0800</lastBuildDate>
     
 	<atom:link href="https://CYTien.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hostel</title>
+      <link>https://CYTien.github.io/categories/hostel/</link>
+      <pubDate>Sat, 27 Jun 2020 14:34:10 +0800</pubDate>
+      
+      <guid>https://CYTien.github.io/categories/hostel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Restaurant</title>
