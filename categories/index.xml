@@ -6,10 +6,19 @@
     <description>Recent content in Categories on YEN氏少女</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 25 Jan 2021 16:04:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 23:22:10 +0800</lastBuildDate>
     
 	<atom:link href="https://CYTien.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Café</title>
+      <link>https://CYTien.github.io/categories/caf%C3%A9/</link>
+      <pubDate>Sat, 27 Feb 2021 23:22:10 +0800</pubDate>
+      
+      <guid>https://CYTien.github.io/categories/caf%C3%A9/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Restaurant</title>
@@ -35,15 +44,6 @@
       <pubDate>Sun, 22 Nov 2020 15:35:10 +0800</pubDate>
       
       <guid>https://CYTien.github.io/categories/tea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Café</title>
-      <link>https://CYTien.github.io/categories/caf%C3%A9/</link>
-      <pubDate>Sun, 08 Nov 2020 22:15:10 +0800</pubDate>
-      
-      <guid>https://CYTien.github.io/categories/caf%C3%A9/</guid>
       <description></description>
     </item>
     
