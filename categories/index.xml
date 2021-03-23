@@ -6,24 +6,15 @@
     <description>Recent content in Categories on YEN氏少女</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 07 Mar 2021 09:22:10 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 20:15:10 +0800</lastBuildDate>
     
 	<atom:link href="https://CYTien.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Brows</title>
-      <link>https://CYTien.github.io/categories/brows/</link>
-      <pubDate>Sun, 07 Mar 2021 09:22:10 +0800</pubDate>
-      
-      <guid>https://CYTien.github.io/categories/brows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Café</title>
       <link>https://CYTien.github.io/categories/caf%C3%A9/</link>
-      <pubDate>Sat, 27 Feb 2021 23:22:10 +0800</pubDate>
+      <pubDate>Tue, 23 Mar 2021 20:15:10 +0800</pubDate>
       
       <guid>https://CYTien.github.io/categories/caf%C3%A9/</guid>
       <description></description>
@@ -32,7 +23,7 @@
     <item>
       <title>Restaurant</title>
       <link>https://CYTien.github.io/categories/restaurant/</link>
-      <pubDate>Mon, 25 Jan 2021 16:04:10 +0800</pubDate>
+      <pubDate>Sun, 14 Mar 2021 20:15:10 +0800</pubDate>
       
       <guid>https://CYTien.github.io/categories/restaurant/</guid>
       <description></description>
@@ -41,9 +32,27 @@
     <item>
       <title>Bar</title>
       <link>https://CYTien.github.io/categories/bar/</link>
-      <pubDate>Sun, 06 Dec 2020 23:50:10 +0800</pubDate>
+      <pubDate>Sun, 14 Mar 2021 15:15:10 +0800</pubDate>
       
       <guid>https://CYTien.github.io/categories/bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOTEL</title>
+      <link>https://CYTien.github.io/categories/hotel/</link>
+      <pubDate>Sun, 14 Mar 2021 00:15:10 +0800</pubDate>
+      
+      <guid>https://CYTien.github.io/categories/hotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brows</title>
+      <link>https://CYTien.github.io/categories/brows/</link>
+      <pubDate>Sun, 07 Mar 2021 09:22:10 +0800</pubDate>
+      
+      <guid>https://CYTien.github.io/categories/brows/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Fri, 23 Oct 2020 19:53:10 +0800</pubDate>
       
       <guid>https://CYTien.github.io/categories/baking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HOTEL</title>
-      <link>https://CYTien.github.io/categories/hotel/</link>
-      <pubDate>Sat, 10 Oct 2020 19:18:10 +0800</pubDate>
-      
-      <guid>https://CYTien.github.io/categories/hotel/</guid>
       <description></description>
     </item>
     
