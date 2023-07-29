@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 挑食歐膩 Picky Oni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 13 Jul 2023 16:04:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2023 20:54:10 +0800</lastBuildDate>
     
 	<atom:link href="https://CYTien.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Food</title>
       <link>https://CYTien.github.io/tags/food/</link>
-      <pubDate>Thu, 13 Jul 2023 16:04:10 +0800</pubDate>
+      <pubDate>Sat, 29 Jul 2023 20:54:10 +0800</pubDate>
       
       <guid>https://CYTien.github.io/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>台中</title>
+      <link>https://CYTien.github.io/tags/%E5%8F%B0%E4%B8%AD/</link>
+      <pubDate>Sat, 29 Jul 2023 20:54:10 +0800</pubDate>
+      
+      <guid>https://CYTien.github.io/tags/%E5%8F%B0%E4%B8%AD/</guid>
       <description></description>
     </item>
     
